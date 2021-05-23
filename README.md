@@ -19,3 +19,6 @@ Some of the fixes on this code refactor include
 Throughout this process I learned a lot about the proper use of sematic and non-sematic elements that correlate with readability on both HTML and CSS code. 
 
 I also learned what is a good logical structure and hierarchy of code that is compatible with both CSS and HTML. 
+
+
+
